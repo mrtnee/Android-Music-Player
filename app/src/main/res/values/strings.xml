@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiniApp2</string>
+    <string name="song_title_placeholder">(song title)</string>
+    <string name="song_duration_placeholder">(song duration)</string>
+    <string name="channel_name">Foreground service channel</string>
+    <string name="channel_description">Notifications and commands related to the MediaPlayerService</string>
+    <string name="notification_title">Music Player</string>
+    <string name="notification_text">Tap to return to Music Player</string>
+</resources>
